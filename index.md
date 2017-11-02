@@ -21,6 +21,8 @@ Dell OptiPlex 760 - Core2 Duo E8400 (3Gz), 2GB DDR2 RAM, onboard graphics, etc. 
 Wood - $10
 
 
+### The process
+The first thing I did when I recieved the desktop in the mail was take it apart (stupidly on my part, before even making sure it even worked) to see how much space could be saved. It was at this point I decided to build the case out of wood on account of how heavy the metal case was. 
 
 
 
@@ -28,32 +30,5 @@ Wood - $10
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prabhdeepsamra/laptop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
