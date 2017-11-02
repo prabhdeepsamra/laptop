@@ -39,9 +39,12 @@ I layed out all of the main components on a piece of wood then cut that to size.
 
 ![Image](https://user-images.githubusercontent.com/9144361/32307098-088a21c6-bf3c-11e7-911e-481c778be29b.jpg)
 
-The wires were still too short so I ended up having to extend them. 22 wires cut in half and extended = 44 soldering joints. This took a couple hours because of the tight spacing and lack of experience. The $8 Hardware Fright (it's a pun, not a misnonmer) soldering arm came in handy. Sorry about the blur and the orientation. Still new to this. 
+The wires were still too short so I ended up having to extend them. 22 wires cut in half and extended = 44 soldering joints. This took a couple hours because of the tight spacing and lack of experience. The $8 Hardware Fright (it's a pun, not a misnonmer) soldering arm came in handy. Sorry about the blur and the orientation. Click on the image for the correct orientation. Still new to this. 
 
-
+The setup
+![Image](https://user-images.githubusercontent.com/9144361/32307347-500d56f2-bf3d-11e7-8851-a53f784cca1c.jpg)
+In progress. This took so long because I had to map each cut back to its original wire. I didn't have the sense to look at the pinout for the cabling, and I didnt want to risk simply matching colors. 
+![Image](https://user-images.githubusercontent.com/9144361/32307344-4db6f57a-bf3d-11e7-9735-5ab9401a09e2.jpg)
 
 
 
