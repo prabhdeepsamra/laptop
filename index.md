@@ -9,6 +9,12 @@ Here it is in its full glory
 ![Image](https://user-images.githubusercontent.com/9144361/32306205-3c900d82-bf37-11e7-9dd4-72bbca573ac3.jpg)
 
 
+# The parts
+LCD Screen - I ripped this from an old, broken laptop - $0
+LCD Controller Board - This part let me input to the LCD Screen - 
+[Link](https://www.ebay.com/itm/Kit-for-LP156WH2-TLQB-LCD-LED-Lvds-Controller-Board-HDMI-DVI-VGA/112415296844?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+
+
 
 
 
