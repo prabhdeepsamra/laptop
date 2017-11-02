@@ -2,8 +2,10 @@
 
 I hacked together a "laptop" by combining an old desktop computer and the monitor from a broken laptop. It's more of a portable desktop, but the idea is there. Is it practial? Not really, no. Was it fun? Yes. 
 
+Here it is in its full glory
 ![Image](https://user-images.githubusercontent.com/9144361/32306205-3c900d82-bf37-11e7-9dd4-72bbca573ac3.jpg)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### The Computer
 
