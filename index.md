@@ -20,6 +20,8 @@ Dell OptiPlex 760 - Core2 Duo E8400 (3Gz), 2GB DDR2 RAM, onboard graphics, etc. 
 
 Wood - $10
 
+Total ~$60
+
 
 ### The process
 After concieving this nutty idea, I stripped an old laptop of its screen and bought a control board for it. It didn't come with any wiring, so I had to splice together a power adapter and a transformer to get the voltage and the fitting correct. I connected it to my desktop to make sure it worked, which it did. 
@@ -28,7 +30,7 @@ Now I had to decide what parts to buy for the laptop. Initially, I was going to 
 
 The first thing I did when I recieved the desktop in the mail was weight it. It was too heavy, and I decided to build the case out of wood on account of how heavy the metal case was. I opened it up and took it apart to see how much space could be saved. I made the foolish mistake of doing this before even making sure it even worked.
 
-I came to my senses and hooked up the cabling to the computer and LCD to make sure everything worked.
+I came to my senses and hooked up the cabling to the computer and LCD to make sure everything worked. Mind the mess. I'm still under 20.
 
 ![Image](https://user-images.githubusercontent.com/9144361/32307217-97cb004e-bf3c-11e7-9139-d9c99315a78e.jpg)
 
@@ -36,6 +38,8 @@ I came to my senses and hooked up the cabling to the computer and LCD to make su
 I layed out all of the main components on a piece of wood then cut that to size. The next step is the beginning of the jankiness. The cables that go from the power supply to the motherboard were too short, so I tore apart the side of the PSU with some pliers to get a few extra centimeters. Don't worry, I peeled off the "Void if Seal Broken" sticker so I can return the computer and get my money back.
 
 ![Image](https://user-images.githubusercontent.com/9144361/32307098-088a21c6-bf3c-11e7-911e-481c778be29b.jpg)
+
+The wires were still too short so I ended up having to extend them. 22 wires cut in half and extended = 44 soldering joints. This took a couple hours because of the tight spacing and lack of experience. The $8 Hardware Fright (it's a pun, not a misnonmer) soldering arm came in handy. Sorry about the blur and the orientation. Still new to this. 
 
 
 
