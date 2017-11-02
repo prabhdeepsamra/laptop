@@ -41,7 +41,7 @@ After the cable extension, everything fit properly on the base. A quick note on 
 
 The last steps were to put side panels on the assembly. The front was the easiest because it is just a flat piece of wood. The back panel needed a hole for the power cable, and needed to be shortened several times to allow clearance for the screen to open up. The left side of the case was difficult because it needed a hole for the fan, and the right side was difficult because it was the last bit of construction I had to do and I was lazy. I just glued a couple scrap pieces of wood to it. It looks fine.
 
-The final thing I did was take a handle from a cabinet and screw it onto the face, since it was a bit hard to carry. Unfortunately the laptop came out looking like a drawer. It did, work however. There's a conclusion at the end. 
+The final thing I did was take a handle from a cabinet and screw it onto the face, since it was a bit hard to carry. Unfortunately the laptop came out looking like a drawer. It did work, however. There's a conclusion at the end. 
 
 
 
