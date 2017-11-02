@@ -2,6 +2,8 @@
 
 I hacked together a "laptop" by combining an old desktop computer and the monitor from a broken laptop. It's more of a portable desktop, but the idea is there. Is it practial? Not really, no. Was it fun? Yes. 
 
+This was supposed to be a prototype project, hence why I used an old pre-built system. It was the cheapest way of testing my idea.
+
 
 ### The Computer
 
@@ -12,7 +14,15 @@ Here it is in its full glory
 # The parts
 LCD Screen - I ripped this from an old, broken laptop - $0
 
-[LCD Controller Board](https://www.ebay.com/itm/Kit-for-LP156WH2-TLQB-LCD-LED-Lvds-Controller-Board-HDMI-DVI-VGA/112415296844?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)  - This part let me input to the LCD Screen - 
+[LCD Controller Board](https://www.ebay.com/itm/Kit-for-LP156WH2-TLQB-LCD-LED-Lvds-Controller-Board-HDMI-DVI-VGA/112415296844?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)  - This part let me input to the LCD Screen - $20
+
+Dell OptiPlex 760 - Core2 Duo E8400 (3Gz), 2GB DDR2 RAM, onboard graphics, etc. - %30
+
+Wood - $10
+
+
+
+
 
 
 
