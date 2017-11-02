@@ -22,7 +22,15 @@ Wood - $10
 
 
 ### The process
-The first thing I did when I recieved the desktop in the mail was take it apart (stupidly on my part, before even making sure it even worked) to see how much space could be saved. It was at this point I decided to build the case out of wood on account of how heavy the metal case was. 
+After concieving this nutty idea, I stripped an old laptop of its screen and bought a control board for it. It didn't come with any wiring, so I had to splice together a power adapter and a transformer to get the voltage and the fitting correct. I connected it to my desktop to make sure it worked, which it did. 
+
+Now I had to decide what parts to buy for the laptop. Initially, I was going to build a custom rig, but that proved to be too expensive for something I wasnt completely sure was going to work (both in function and form). I found a cheap old desktop online that I think belonged to a public school or a large firm. The point is that it was old and inexpensive.
+
+The first thing I did when I recieved the desktop in the mail was weight it. It was too heavy, and I decided to build the case out of wood on account of how heavy the metal case was. I opened it up and took it apart to see how much space could be saved. I made the foolish mistake of doing this before even making sure it even worked.
+
+I layed out all of the main components on a piece of wood then cut that to size. The next step is the beginning of the jankiness. The cables that go from the power supply to the motherboard were too short, so I tore apart the side of the PSU to get a few extra centimeters. 
+
+![Image](https://user-images.githubusercontent.com/9144361/32307098-088a21c6-bf3c-11e7-911e-481c778be29b.jpg)
 
 
 
