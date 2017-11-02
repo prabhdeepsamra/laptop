@@ -47,7 +47,7 @@ The final thing I did was take a handle from a cabinet and screw it onto the fac
 
 
 
-##pictures
+## pictures
 
 Testing the system. Mind the mess. I'm young, that's an excuse, right?
 
@@ -68,7 +68,29 @@ Sizing the height and installing the "L" columns.
 ![Image](https://user-images.githubusercontent.com/9144361/32307350-51358130-bf3d-11e7-9190-f3d965b38093.jpg)
 
 
-##Conclusion 
+Top-Down view of the final product. Note the excess of wires and lack of structure for modular components.
+![Image](https://user-images.githubusercontent.com/9144361/32306204-3c639572-bf37-11e7-8333-ffd370b2370e.jpg)
+
+
+The final product seen as would be in use. I tended to use it with the keyboard and mouse out of the tray. Yes, I shouldve made a 
+|__ ___ | - shaped table that was flippable, but I was done with the project.
+![Image](https://user-images.githubusercontent.com/9144361/32306205-3c900d82-bf37-11e7-9dd4-72bbca573ac3.jpg)
+
+
+Top-Down view of the final product. Closed. 
+![Image](https://user-images.githubusercontent.com/9144361/32306206-3cbab942-bf37-11e7-96ff-6218e6d1bd3c.jpg)
+
+Side-view of the fan
+![Image](https://user-images.githubusercontent.com/9144361/32306207-3ce88a20-bf37-11e7-9569-c69c5770a334.jpg)
+
+View of the rear.
+![Image](https://user-images.githubusercontent.com/9144361/32306208-3d190a38-bf37-11e7-963d-fad98b84c5e8.jpg)
+
+Standing up. Looks like of like a briefcase. 
+![Image](https://user-images.githubusercontent.com/9144361/32306209-3d441a3e-bf37-11e7-8060-365133df4293.jpg)
+
+
+## Conclusion 
 
 I am happy with the results, and I learned a lot from this project. The laptop came out a bit clunky and quite large, but that couldn't really be helped with the tools and materials at hand. If I were to continue with this idea, building off this prototype and putting a decent amount of money into it, there is a lot I would change. The first issue is the size. The total height is about 5.75 inches, 2 of which came from the keyboard I decided to use. To make it smaller, I would first have an external power supply. This would mean buying a separate transformer and having some kind of power circuit inside the case. The keyboard could be replaced by several laptop keyboards I have from broken laptops, but I don't know how easy it would be to essentially create a drive for it. This would also get rid of the need for an external mouse, but I like having the real thing over a trackpoint or trackpad. The last thing I could do is use a different cooling system for the CPU. The current stock heatsink is large and clunky. I know of some low profile air coolers, but I was looking into the idea of a closed loop CPU-specific water cooler. 
 
