@@ -11,8 +11,8 @@ Here it is in its full glory
 
 # The parts
 LCD Screen - I ripped this from an old, broken laptop - $0
-LCD Controller Board - This part let me input to the LCD Screen - 
-[Link](https://www.ebay.com/itm/Kit-for-LP156WH2-TLQB-LCD-LED-Lvds-Controller-Board-HDMI-DVI-VGA/112415296844?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+
+[LCD Controller Board](https://www.ebay.com/itm/Kit-for-LP156WH2-TLQB-LCD-LED-Lvds-Controller-Board-HDMI-DVI-VGA/112415296844?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)  - This part let me input to the LCD Screen - 
 
 
 
