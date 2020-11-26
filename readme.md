@@ -51,7 +51,7 @@ The final thing I did was take a handle from a cabinet and screw it onto the fac
 
 Testing the system. Mind the mess. I'm young, that's an excuse, right?
 
-![Image](https://user-images.githubusercontent.com/9144361/32307217-97cb004e-bf3c-11e7-9139-d9c99315a78e.jpg)
+![Image](https://user-images.githubusercontent.com/9144361/100384705-a0f6cb00-2fd5-11eb-8db1-9df8bacf8f2a.jpg)
 
 Jank power supply modification
 ![Image](https://user-images.githubusercontent.com/9144361/32307098-088a21c6-bf3c-11e7-911e-481c778be29b.jpg)
